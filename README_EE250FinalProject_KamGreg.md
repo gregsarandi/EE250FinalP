@@ -9,6 +9,7 @@ Team Members:
 DEMO VIDEO LINK: 
     https://youtu.be/K6HgRhEh0H8
     Video should be 10:02 in length
+    If there are any issues with accessing the video or anything else, please contact Greg: sarandi@usc.edu
 
 The four images provided in this submission folder show the functionality of the project:
 
